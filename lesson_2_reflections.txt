@@ -4,5 +4,5 @@ Add only the file with changes that you want to commit to the staging area so th
 
 Git branch allows you to make experimental changes and start side project without affecting the current work.
 
-
+Diagram illustrates the topology of the branch structure.
 
