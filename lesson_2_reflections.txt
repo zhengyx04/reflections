@@ -1,2 +1,6 @@
 Staging area gives you another layer of flexibility so that you can choose which files in the directory to track.
 
+Add only the file with changes that you want to commit to the staging area so that you can make one commit per logical change.
+
+
+
