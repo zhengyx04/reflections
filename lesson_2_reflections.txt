@@ -2,5 +2,7 @@ Staging area gives you another layer of flexibility so that you can choose which
 
 Add only the file with changes that you want to commit to the staging area so that you can make one commit per logical change.
 
+Git branch allows you to make experimental changes and start side project without affecting the current work.
+
 
 
