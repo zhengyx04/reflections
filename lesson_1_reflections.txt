@@ -1,0 +1,11 @@
+'diff' will find all the lines that are modified in the new version while ignoring the lines that are not modified. 
+This certainly helps to quickly identify the bugs that are introduced in the new version of the file.
+
+Having access to the history of a file makes programming more efficient because it allows you to identify when things go wrong and what changes are bad.
+
+Because the multiple files are parts of one project. The changes you make may involve modifying more than one files so it is more reasonable to include the saving of all these files in one commit.
+
+Git log shows the history of all the commits. Git diff shows the changes of the repository between the two commits.
+
+Git allows you to identify bugs and revert to previous no-bug states so that you can examine what change causes the bug.
+
