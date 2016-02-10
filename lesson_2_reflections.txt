@@ -6,3 +6,5 @@ Git branch allows you to make experimental changes and start side project withou
 
 Diagram illustrates the topology of the branch structure.
 
+Automatic merging makes merging faster and easier. On the other hand it may do it incorrectly.
+
