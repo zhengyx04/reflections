@@ -8,3 +8,4 @@ Diagram illustrates the topology of the branch structure.
 
 Automatic merging makes merging faster and easier. On the other hand it may do it incorrectly.
 
+'fork' is cloning repository on the github server. 'clone' copies the repository onto your local computer. 'branch' makes a new course of development of the project.
